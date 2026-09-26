@@ -245,4 +245,4 @@ This repository serves as the official landing page for Transport Tycoon Deluxe.
 **Get the most recent version of Transport Tycoon Deluxe today!**
 
 ---
-**Last updated:** 2026-09-26 21:38:48 UTC
+**Last updated:** 2026-09-26 23:57:43 UTC
